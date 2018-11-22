@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="qmmd5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/qmmd5_jar</output-path>
+    <root id="archive" name="qmmd5.jar">
+      <element id="module-output" name="qmmd5" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/qmmd5/target/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
